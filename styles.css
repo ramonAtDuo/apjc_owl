@@ -1,0 +1,142 @@
+/* Hat @pmanis */
+.hat {    
+    width: 120px;
+    height: 60px;    
+    top: -240px;
+    left: 0px;
+    border-radius: 0px 0px 0 0;
+    transform: translateX(0%);
+    background-color: white;
+    
+    /* Keep as is */
+    position: absolute;
+}
+
+.hat-band {    
+    width: 70px;
+    height: 20px; 
+    bottom: 0px;
+    left: 0%;   
+    border-radius: 0px;
+    transform: translateX(0%);
+    background-color: white;
+    
+    /* Keep as is */
+    position: absolute;
+}
+
+/* Eyes: @mistill */
+.eye {
+    width: 50px;
+    height: 50px;
+    top: -170px;
+    border-radius: 0%;
+    background-color: white;
+    
+    /* Keep as is */
+    position: absolute;    
+}
+
+.left-eye {
+    left: 0px;
+}
+
+.right-eye {
+    right: 80px;
+}
+
+.pupil {
+    width: 15px;
+    height: 15px;
+    top: 0%;
+    left: 0%;    
+    border-radius: 0%;
+    transform: translate(0%, 0%);    
+    background-color: white;
+    
+    /* Keep as is */
+    position: absolute;
+}
+
+.glow {
+    width: 5px;
+    height: 5px;
+    top: 0%;
+    left: 0%;
+    transform: translate(0%, 0%);    
+    border-radius: 0%;
+    background-color: white;
+
+    /* Keep as is */
+    position: absolute;
+}
+
+/* Beak: @naspinall */
+.beak {
+    width: 25px;
+    height: 25px;    
+    top: -110px;
+    left: 0%;
+    transform: translateX(0%) rotate(0deg);
+    border-radius: 0px 0px 0px 0px;
+    background-color: white;
+    
+    /* Keep as is */
+    position: absolute;
+}
+
+/* Wings: @dethirum */
+.wing {
+    width: 50px;
+    height: 50px;
+    top: -70px;
+    border-radius: 0%;
+    background-color: white;    
+        
+    /* Keep as is */
+    position: absolute;
+}
+
+.left-wing {
+    left: 0px;
+    transform: rotate(0deg);
+}
+
+.right-wing {
+    right: 80px;
+    transform: rotate(0deg);
+}
+
+/* Feather @evawa */
+.feather {
+    width: 25px;
+    height: 25px;
+    top: 200px;
+    left: 0%;    
+    border-radius: 0%;
+    transform: translateX(0%);
+    background-color: white;
+
+    /* Keep as is */
+    position: absolute;
+}
+
+/* Feet @gayvijay */
+.foot {
+    width: 20px;
+    height: 20px;
+    top: 235px;    
+    border-radius: 0%;
+    background-color: white;
+
+    /* Keep as is */
+    position: absolute;
+}
+
+.left-foot {
+    left: 0px;
+}
+
+.right-foot {
+    right: 150px;
+}
