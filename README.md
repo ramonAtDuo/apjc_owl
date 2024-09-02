@@ -35,10 +35,10 @@ Each participant will work on a separate Git branch, making changes that will ul
     git commit -m "Add [your feature or changes]"
     git push origin your-branch-name
 5. **Submit a Pull Request:**
-Open a pull request to merge your branch into 'result' branch once your changes are finalized.
+- Open a pull request to merge your branch into 'result' branch once your changes are finalized.
 
 ### Contributing
-We welcome contributions! If you have ideas for enhancements or new features, feel free to open an issue or submit a pull request.
+Welcome contribuitors! If you have ideas for enhancements or new features, feel free to open an issue or submit a pull request.
 
 ### License
 This project is licensed under the MIT License, making it free to use, modify, and distribute.
