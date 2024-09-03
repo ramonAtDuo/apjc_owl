@@ -4,6 +4,8 @@
 
 This repository is a toy project designed for pedagogic purposes as a brief introduction to CSS. Participants will create a minimalistic owl using basic geometric shapes and common CSS properties, making this a fun and interactive way to learn CSS fundamentals.
 
+![Owl Image](./images/template.png)
+
 ## Purpose
 
 The CSS Owl Project aims to introduce beginners to key CSS concepts through a hands-on approach. By working on this project, participants will learn:
