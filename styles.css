@@ -2,24 +2,24 @@
 .hat {
     width: 120px;
     height: 60px;
-    top: -240px;
-    left: 0px;
-    border-radius: 0px 0px 0 0;
+    top: -40px;
+    left: 40px;
+    border-radius: 120px 120px 0 0;
     transform: translateX(0%);
-    background-color: white;
+    background-color: rgb(207, 185, 40);;
 
     /* Keep as is */
     position: absolute;
 }
 
 .hat-band {
-    width: 70px;
+    width: 60px;
     height: 20px;
-    bottom: 0px;
-    left: 0%;
-    border-radius: 0px;
+    bottom: 10px;
+    left: 25%;
+    border-radius: 30px;
     transform: translateX(0%);
-    background-color: white;
+    background-color: rgb(157, 28, 28);
 
     /* Keep as is */
     position: absolute;
