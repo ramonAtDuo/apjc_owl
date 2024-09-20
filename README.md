@@ -40,7 +40,7 @@ Each participant will work on a separate Git branch, making changes that will ul
 - Open a pull request to merge your branch into 'result' branch once your changes are finalized.
 
 ### Contributing
-Welcome contribuitors! If you have ideas for enhancements or new features, feel free to open an issue or submit a pull request.
+Welcome contributors! If you have ideas for enhancements or new features, feel free to open an issue or submit a pull request.
 
 ### License
 This project is licensed under the MIT License, making it free to use, modify, and distribute.
